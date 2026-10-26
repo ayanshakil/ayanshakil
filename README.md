@@ -1,4 +1,4 @@
-# Hi, I'm Ayaan Shakil 👋
+# Ayaan Shakil
 
 **Backend & AI Engineer · SDE-1 [@Trackier](https://trackier.com)**
 
