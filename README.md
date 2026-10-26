@@ -1,6 +1,6 @@
 # Ayaan Shakil
 
-**Backend & AI Engineer · SDE-1 [@Trackier](https://trackier.com)**
+**Backend & AI Engineer · SDE-1 (FullStack) [@Trackier](https://trackier.com)**
 
 I build REST APIs and microservices in **Go, Python and Node.js**, and agentic AI systems (RAG pipelines, AI agents) with **LangGraph, LangChain and MCP**.
 
